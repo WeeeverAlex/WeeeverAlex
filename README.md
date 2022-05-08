@@ -1,6 +1,6 @@
 ### Hello, I'm Alexandre Wever 👋
 
-- 🔭 I’m currently studying on Insper
+- 🔭 I’m currently studying at Insper
 - 🌱 I’m currently learning Python
 - 📫 How to reach my Linkedin: linkedin.com/in/alexandrewever/
 
