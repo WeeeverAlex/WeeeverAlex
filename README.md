@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently studying at Insper
 - 🌱 I’m currently learning Java & Swift
-- 👽 Web design enthusiast
 - 📫 How to reach my Linkedin: linkedin.com/in/alexandrewever/
 
 <div>
