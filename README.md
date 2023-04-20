@@ -1,7 +1,7 @@
 ### Hello, I'm Alexandre Wever 👋
 
 - 🔭 I’m currently studying at Insper
-- 🌱 I’m currently learning Java & Swift
+- 🌱 I’m currently learning Java & Dart & Flutter
 - 📫 How to reach my Linkedin: linkedin.com/in/alexandrewever/
 
 <div>
