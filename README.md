@@ -2,8 +2,7 @@
 
 🔭 I’m currently studying at:
 
-![image](https://user-images.githubusercontent.com/89090868/235004487-f75564c3-16cd-45f4-b000-d72d5edca463.png)
-
+<a href="https://www.insper.edu.br/" target="_blank"><img src="https://user-images.githubusercontent.com/89090868/235004487-f75564c3-16cd-45f4-b000-d72d5edca463.png" target="_blank"></a>
 
 🌱 I’m currently learning:
 
