@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying at:
 
-![Insper Badge](https://img.shields.io/badge/-INSPER-red?style=for-the-badge&logo=java&logoColor=white)
+![image](https://user-images.githubusercontent.com/89090868/235004487-f75564c3-16cd-45f4-b000-d72d5edca463.png)
 
 
 🌱 I’m currently learning:
@@ -14,7 +14,7 @@
  ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
-My knowledges:
+My coding knowledges:
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,12 @@ My knowledges:
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+My other knowlegdes:
+
+![Ableton Live](https://img.shields.io/badge/-ABLETON%20LIVE-black?style=for-the-badge&logo=abletonlive)
+![Autocad](https://img.shields.io/badge/-AUTOCAD-red?style=for-the-badge&logo=autodesk)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 📫 How to reach me:
 
